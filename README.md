@@ -1,4 +1,4 @@
-# Amazon Metadata - Co-Purchasing Data Analysis and Recommendation- Community Detection & Link Prediction using Graph Neural Networks
+# Co-Purchasing Data Analysis and Recommendation System: Community Detection & Link Prediction using Graph Neural Networks
 ## Introduction
 The project analyzes co-purchasing patterns in the Amazon Product Graph Dataset to understand customer behavior and improve marketing strategies. Key methodologies include:  
 - Graph construction and visualization.  
@@ -100,8 +100,6 @@ The project analyzes co-purchasing patterns in the Amazon Product Graph Dataset 
 ---
 
 ## Contributors
+- [Hafeeza Begum Dudekula](https://github.com/HafeezaBegum)
 - [Reshma Ananda Prabhakar](https://github.com/reshmaananda/)
-- [	Hafeeza Begum Dudekula](https://github.com/HafeezaBegum)
 - [Lokesh Poluru Velayudham](https://github.com/lokeshvelayudham/)
-
-
